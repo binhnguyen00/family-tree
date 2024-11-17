@@ -1,0 +1,10 @@
+#content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+canvas {
+  margin: 10px 0;
+  border: 1px solid gray;
+}
