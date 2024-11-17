@@ -1,4 +1,4 @@
-# relatives-tree
+# family-tree
 
 A tiny library (~3.23 kB br) for calculating specific JSON data to family tree nodes and connectors.
 
